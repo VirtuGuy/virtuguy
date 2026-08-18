@@ -1,13 +1,26 @@
-## Greetings! 👋
+Hi guys :waving_tole:
 
-I'm Virtu. I do some pretty cool codes.
+<img width="256" height="204" alt="scientists reveal the hi" src="https://github.com/user-attachments/assets/c0932f9a-44d7-41cd-9597-c1e675a1fe10" />
 
-- 👾 I code using various game engines such as Godot, GameMaker, Heaps, HaxeFlixel, etc.
-- 🎤 I LOVE Friday Night Funkin'. Love it so much I'm a contributor!
-- ✏️ (draw my oc eminem rapping gif) I can't send that gif I'm afraid. I don't have an oc.
-- ⛏️ I'm a minor. Do you NEED to know that? Not necessarily.
-- 🎮 My current project is [WTF Engine](https://gamebanana.com/wips/98778), an FNF engine with intentionally bad art that is built from the ground up.
+I'm Virtu. I like doing codes and arts, though coding is my main thing.
 
-I hope you have a great day 👋
+I like to code in game engines such as GameMaker, Godot, HaxeFlixel, Heaps, etc.
 
-<img width="707" height="426" alt="work_dance" src="https://github.com/user-attachments/assets/306fbc02-1146-4231-b09c-af5a25502dec" />
+---
+
+Projects I've made/working on:
+- [WTF Engine](https://gamebanana.com/wips/98778)
+- [Danger at Freddy's](https://gamejolt.com/games/danger-at-freddys/998472)
+
+<img width="220" height="293" alt="image" src="https://media.tenor.com/e3i6015F3pMAAAAM/14-august-ahh.gif" />
+
+---
+
+Projects I contribute to:
+- [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
+- [Blake Expansion](https://gamebanana.com/mods/660113)
+- Vs Hundrec
+
+---
+
+Wanna ask something or send me cool art without me knowing where it came from? Here's my [StrawPage](https://realvirtu.straw.page/)!
